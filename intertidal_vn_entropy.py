@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 ================================================================================
-Information Geometry of Intertidal Community Organization:
+Information Theoretic Approach to Intertidal Community Organization:
 Von Neumann Entropy Detects Alternative Stable State Architecture
 in Gulf of Maine Succession
 ================================================================================
